@@ -1,5 +1,5 @@
 project:
-  title: "Palmer Penguins"
+  title: "Woof"
   type: datapage
 
 website:
@@ -18,5 +18,5 @@ execute:
 
 redivis:
   user: datapages
-  dataset: palmerpenguins
-  table: penguins
+  dataset: many_babies_1
+  table: 03_data_trial_main
